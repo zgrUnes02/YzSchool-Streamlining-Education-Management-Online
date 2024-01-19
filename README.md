@@ -7,9 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 # School Management System with Zoom Integration
 
@@ -78,7 +75,7 @@ This Laravel project is a comprehensive School Management System that includes s
 - **Frontend:**
   - HTML
   - CSS (styled with Bootstrap for responsive design)
-  - JavaScript (Vue.js for interactive components)
+  - JavaScript (Livewire for interactive components)
 
 - **Backend:**
   - PHP (Laravel framework)
